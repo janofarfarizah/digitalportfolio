@@ -1,0 +1,127 @@
+body{
+    background-color: azure;
+    background-image: url(green.jpg);
+}
+.header-pic img{
+    margin: 0%;
+    height: 250px;
+    width: 250px;
+    align-items: center;
+    border-radius: 50%;
+}
+.header-abt h2{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding-left: 450px;
+    padding-top: 70px;
+    font-size: 30px;
+    display: flex;
+}
+.header-abt h4{
+    text-align: center;
+    color:rgb(229, 221, 221) ;
+    padding-left: 400px;
+    font-size: 20px;
+    display: flex;
+}
+.head{
+    display: flex;
+    background-color: rgba(0, 0, 0,0.5);
+    border-radius: 30px;
+}
+.about h2{
+    font-size: 30px;
+    padding-top: 6px;
+    padding-left: 6px;
+    color: rgb(5, 5, 5);
+}
+.about p{
+    font-size: 17px;
+    text-indent: 5%;
+    color: rgb(220, 218, 217);
+    line-height: 30px;
+    letter-spacing: 1px;
+    padding-left: 10px;
+}
+.about{
+    background-color: rgba(0, 0, 0,0.5);
+    height: 170px;
+    border-radius: 30px;
+
+}
+.tskills{
+    background-color: rgba(0, 0, 0,0.5);
+    color: aliceblue;
+    height: 180px;
+    border-radius: 30px;
+}
+.tskills h2{
+    color: black;
+    font-size: 30px;
+    padding-top: 9px;
+    padding-left: 9px;
+}
+.tskills ul{
+    font-size: 17px;
+    line-height: 30px;
+}
+.pskills{
+    background-color: rgba(0, 0, 0,0.5);
+    color: aliceblue;
+    height: 180px;
+    border-radius:30px; 
+
+}
+.pskills h2{
+    color: black;
+    font-size: 30x;
+    padding-top: 10px;
+    padding-left: 14px;
+}
+.pskills ul{
+    font-size: 17px;
+    line-height:25px;
+    list-style: inside;
+}
+.cv a{
+    text-decoration: none;
+    font-size: 25px;
+    color: aliceblue;
+    background-color:rgb(27, 79, 38);
+    border-radius: 6px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+.cv a:hover{
+    background-color: blue;
+}
+.cv{
+    padding-top: 15px;
+    text-align: center;
+}
+.foot{
+    background-color: rgba(0, 0, 0,0.5);
+    color: rgb(252, 250, 249);
+    height: 100px;
+    border-radius:30px;
+}
+.foot-con h2{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 8px;
+    color: rgb(240, 79, 79);
+}
+.foot{
+    text-align: center;
+    color: rgb(247, 243, 242);
+    font-size: 20px;
+}
+.ei a{
+    color:rgb(134, 191, 241);
+}
+.li a{
+    color:rgb(134, 191, 241);
+}
